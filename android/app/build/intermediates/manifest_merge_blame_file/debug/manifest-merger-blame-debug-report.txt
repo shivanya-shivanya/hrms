@@ -1,0 +1,201 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hrms"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="33"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+12-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:5:5-75
+12-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:5:22-73
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:6:5-7:71
+13-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:6:22-62
+14
+15    <queries>
+15-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-11:15
+16        <intent>
+16-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-10:18
+17            <action android:name="android.media.action.IMAGE_CAPTURE" />
+17-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-73
+17-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:21-70
+18        </intent>
+19    </queries>
+20
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-81
+21-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:22-78
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23    <!--
+24    This manifest file is used only by Gradle to configure debug-only capabilities
+25    for React Native Apps.
+26    -->
+27    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+27-->[com.facebook.react:react-android:0.74.1] /Users/ripenapps/.gradle/caches/transforms-4/441abbc29e7844d504dda1a0ffede014/transformed/jetified-react-android-0.74.1-debug/AndroidManifest.xml:16:5-78
+27-->[com.facebook.react:react-android:0.74.1] /Users/ripenapps/.gradle/caches/transforms-4/441abbc29e7844d504dda1a0ffede014/transformed/jetified-react-android-0.74.1-debug/AndroidManifest.xml:16:22-75
+28
+29    <permission
+29-->[androidx.core:core:1.9.0] /Users/ripenapps/.gradle/caches/transforms-4/6621c239d1e00abea0752787fff99403/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+30        android:name="com.hrms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+30-->[androidx.core:core:1.9.0] /Users/ripenapps/.gradle/caches/transforms-4/6621c239d1e00abea0752787fff99403/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+31        android:protectionLevel="signature" />
+31-->[androidx.core:core:1.9.0] /Users/ripenapps/.gradle/caches/transforms-4/6621c239d1e00abea0752787fff99403/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+32
+33    <uses-permission android:name="com.hrms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+33-->[androidx.core:core:1.9.0] /Users/ripenapps/.gradle/caches/transforms-4/6621c239d1e00abea0752787fff99403/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+33-->[androidx.core:core:1.9.0] /Users/ripenapps/.gradle/caches/transforms-4/6621c239d1e00abea0752787fff99403/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+34
+35    <application
+35-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:9:5-28:19
+36        android:name="com.hrms.MainApplication"
+36-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:10:7-38
+37        android:allowBackup="false"
+37-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:14:7-34
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.9.0] /Users/ripenapps/.gradle/caches/transforms-4/6621c239d1e00abea0752787fff99403/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+39        android:debuggable="true"
+40        android:extractNativeLibs="false"
+41        android:icon="@mipmap/ic_launcher"
+41-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:12:7-41
+42        android:label="@string/app_name"
+42-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:11:7-39
+43        android:roundIcon="@mipmap/ic_launcher_round"
+43-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:13:7-52
+44        android:theme="@style/AppTheme"
+44-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:15:7-38
+45        android:usesCleartextTraffic="true" >
+45-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/debug/AndroidManifest.xml:6:9-44
+46        <activity
+46-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:16:7-27:18
+47            android:name="com.hrms.MainActivity"
+47-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:17:9-37
+48            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+48-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:19:9-118
+49            android:exported="true"
+49-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:22:9-32
+50            android:label="@string/app_name"
+50-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:18:9-41
+51            android:launchMode="singleTask"
+51-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:20:9-40
+52            android:windowSoftInputMode="adjustResize" >
+52-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:21:9-51
+53            <intent-filter>
+53-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:23:9-26:25
+54                <action android:name="android.intent.action.MAIN" />
+54-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:24:13-65
+54-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:24:21-62
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:25:13-73
+56-->/Users/ripenapps/Documents/officeApplications/hrms/android/app/src/main/AndroidManifest.xml:25:23-70
+57            </intent-filter>
+58        </activity>
+59
+60        <provider
+60-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-24:20
+61            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
+61-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-94
+62            android:authorities="com.hrms.provider"
+62-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-60
+63            android:exported="false"
+63-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-37
+64            android:grantUriPermissions="true" >
+64-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-47
+65            <meta-data
+65-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-23:78
+66                android:name="android.support.FILE_PROVIDER_PATHS"
+66-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-67
+67                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
+67-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:17-75
+68        </provider>
+69
+70        <activity
+70-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:9-28:72
+71            android:name="com.yalantis.ucrop.UCropActivity"
+71-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-60
+72            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+72-->[:react-native-image-crop-picker] /Users/ripenapps/Documents/officeApplications/hrms/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-69
+73        <activity
+73-->[com.facebook.react:react-android:0.74.1] /Users/ripenapps/.gradle/caches/transforms-4/441abbc29e7844d504dda1a0ffede014/transformed/jetified-react-android-0.74.1-debug/AndroidManifest.xml:19:9-21:40
+74            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+74-->[com.facebook.react:react-android:0.74.1] /Users/ripenapps/.gradle/caches/transforms-4/441abbc29e7844d504dda1a0ffede014/transformed/jetified-react-android-0.74.1-debug/AndroidManifest.xml:20:13-77
+75            android:exported="false" />
+75-->[com.facebook.react:react-android:0.74.1] /Users/ripenapps/.gradle/caches/transforms-4/441abbc29e7844d504dda1a0ffede014/transformed/jetified-react-android-0.74.1-debug/AndroidManifest.xml:21:13-37
+76        <activity
+76-->[com.google.android.gms:play-services-auth:21.2.0] /Users/ripenapps/.gradle/caches/transforms-4/9b34e365526dc66711f07da2c3097316/transformed/jetified-play-services-auth-21.2.0/AndroidManifest.xml:23:9-27:75
+77            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+77-->[com.google.android.gms:play-services-auth:21.2.0] /Users/ripenapps/.gradle/caches/transforms-4/9b34e365526dc66711f07da2c3097316/transformed/jetified-play-services-auth-21.2.0/AndroidManifest.xml:24:13-93
+78            android:excludeFromRecents="true"
+78-->[com.google.android.gms:play-services-auth:21.2.0] /Users/ripenapps/.gradle/caches/transforms-4/9b34e365526dc66711f07da2c3097316/transformed/jetified-play-services-auth-21.2.0/AndroidManifest.xml:25:13-46
+79            android:exported="false"
+79-->[com.google.android.gms:play-services-auth:21.2.0] /Users/ripenapps/.gradle/caches/transforms-4/9b34e365526dc66711f07da2c3097316/transformed/jetified-play-services-auth-21.2.0/AndroidManifest.xml:26:13-37
+80            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+80-->[com.google.android.gms:play-services-auth:21.2.0] /Users/ripenapps/.gradle/caches/transforms-4/9b34e365526dc66711f07da2c3097316/transformed/jetified-play-services-auth-21.2.0/AndroidManifest.xml:27:13-72
+81        <!--
+82            Service handling Google Sign-In user revocation. For apps that do not integrate with
+83            Google Sign-In, this service will never be started.
+84        -->
+85        <service
+85-->[com.google.android.gms:play-services-auth:21.2.0] /Users/ripenapps/.gradle/caches/transforms-4/9b34e365526dc66711f07da2c3097316/transformed/jetified-play-services-auth-21.2.0/AndroidManifest.xml:33:9-37:51
+86            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+86-->[com.google.android.gms:play-services-auth:21.2.0] /Users/ripenapps/.gradle/caches/transforms-4/9b34e365526dc66711f07da2c3097316/transformed/jetified-play-services-auth-21.2.0/AndroidManifest.xml:34:13-89
+87            android:exported="true"
+87-->[com.google.android.gms:play-services-auth:21.2.0] /Users/ripenapps/.gradle/caches/transforms-4/9b34e365526dc66711f07da2c3097316/transformed/jetified-play-services-auth-21.2.0/AndroidManifest.xml:35:13-36
+88            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+88-->[com.google.android.gms:play-services-auth:21.2.0] /Users/ripenapps/.gradle/caches/transforms-4/9b34e365526dc66711f07da2c3097316/transformed/jetified-play-services-auth-21.2.0/AndroidManifest.xml:36:13-107
+89            android:visibleToInstantApps="true" />
+89-->[com.google.android.gms:play-services-auth:21.2.0] /Users/ripenapps/.gradle/caches/transforms-4/9b34e365526dc66711f07da2c3097316/transformed/jetified-play-services-auth-21.2.0/AndroidManifest.xml:37:13-48
+90
+91        <activity
+91-->[com.google.android.gms:play-services-base:18.3.0] /Users/ripenapps/.gradle/caches/transforms-4/316b47ba97064b8996d617330ed91d18/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:20:9-22:45
+92            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+92-->[com.google.android.gms:play-services-base:18.3.0] /Users/ripenapps/.gradle/caches/transforms-4/316b47ba97064b8996d617330ed91d18/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:20:19-85
+93            android:exported="false"
+93-->[com.google.android.gms:play-services-base:18.3.0] /Users/ripenapps/.gradle/caches/transforms-4/316b47ba97064b8996d617330ed91d18/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:22:19-43
+94            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+94-->[com.google.android.gms:play-services-base:18.3.0] /Users/ripenapps/.gradle/caches/transforms-4/316b47ba97064b8996d617330ed91d18/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:21:19-78
+95
+96        <meta-data
+96-->[com.google.android.gms:play-services-basement:18.3.0] /Users/ripenapps/.gradle/caches/transforms-4/06afc51d4c732095d1f7af57feb29a81/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+97            android:name="com.google.android.gms.version"
+97-->[com.google.android.gms:play-services-basement:18.3.0] /Users/ripenapps/.gradle/caches/transforms-4/06afc51d4c732095d1f7af57feb29a81/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+98            android:value="@integer/google_play_services_version" />
+98-->[com.google.android.gms:play-services-basement:18.3.0] /Users/ripenapps/.gradle/caches/transforms-4/06afc51d4c732095d1f7af57feb29a81/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+99
+100        <provider
+100-->[androidx.emoji2:emoji2:1.2.0] /Users/ripenapps/.gradle/caches/transforms-4/1f0c06f94521237f79abc32a5f8de33d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+101            android:name="androidx.startup.InitializationProvider"
+101-->[androidx.emoji2:emoji2:1.2.0] /Users/ripenapps/.gradle/caches/transforms-4/1f0c06f94521237f79abc32a5f8de33d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+102            android:authorities="com.hrms.androidx-startup"
+102-->[androidx.emoji2:emoji2:1.2.0] /Users/ripenapps/.gradle/caches/transforms-4/1f0c06f94521237f79abc32a5f8de33d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+103            android:exported="false" >
+103-->[androidx.emoji2:emoji2:1.2.0] /Users/ripenapps/.gradle/caches/transforms-4/1f0c06f94521237f79abc32a5f8de33d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+104            <meta-data
+104-->[androidx.emoji2:emoji2:1.2.0] /Users/ripenapps/.gradle/caches/transforms-4/1f0c06f94521237f79abc32a5f8de33d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+105                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+105-->[androidx.emoji2:emoji2:1.2.0] /Users/ripenapps/.gradle/caches/transforms-4/1f0c06f94521237f79abc32a5f8de33d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+106                android:value="androidx.startup" />
+106-->[androidx.emoji2:emoji2:1.2.0] /Users/ripenapps/.gradle/caches/transforms-4/1f0c06f94521237f79abc32a5f8de33d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+107            <meta-data
+107-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/ripenapps/.gradle/caches/transforms-4/de53634973e45ba7b62012cb8e869aee/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+108                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+108-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/ripenapps/.gradle/caches/transforms-4/de53634973e45ba7b62012cb8e869aee/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+109                android:value="androidx.startup" />
+109-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/ripenapps/.gradle/caches/transforms-4/de53634973e45ba7b62012cb8e869aee/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+110        </provider>
+111
+112        <meta-data
+112-->[com.facebook.soloader:soloader:0.10.5] /Users/ripenapps/.gradle/caches/transforms-4/c5277b14eec9cc4a12d0fb10c9f8e27e/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+113            android:name="com.facebook.soloader.enabled"
+113-->[com.facebook.soloader:soloader:0.10.5] /Users/ripenapps/.gradle/caches/transforms-4/c5277b14eec9cc4a12d0fb10c9f8e27e/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:13:13-57
+114            android:value="false" />
+114-->[com.facebook.soloader:soloader:0.10.5] /Users/ripenapps/.gradle/caches/transforms-4/c5277b14eec9cc4a12d0fb10c9f8e27e/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:14:13-34
+115    </application>
+116
+117</manifest>

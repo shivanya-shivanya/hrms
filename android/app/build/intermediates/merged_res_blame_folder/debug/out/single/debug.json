@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_personalloan.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_personalloan.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_eyeoff.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_eyeoff.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_personalinfo.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_personalinfo.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_firstsplash.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_firstsplash.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_carloan.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_carloan.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_terms.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_terms.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_slider2.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_slider2.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_secondsplash.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_secondsplash.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_change.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_change.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_chevronright.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_chevronright.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_leaves.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_leaves.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_eye.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_eye.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_newleave.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_newleave.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_active.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_active.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_clock.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_clock.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_checkout.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_checkout.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_settings.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_settings.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_att.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_att.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-hdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_inactive.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_inactive.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_rightarrow.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_rightarrow.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-hdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_emp.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_emp.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_icons_home.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_icons_home.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_privacy.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_privacy.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_resumework.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_resumework.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_about.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_about.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_plus.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_plus.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_bankaccount.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_bankaccount.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_button.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_button.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_break.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_break.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_icons_transfer.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_icons_transfer.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_calendar.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_calendar.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_emailedit.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_emailedit.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_slider.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_slider.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_icons_profile.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_icons_profile.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_arrowleft.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_arrowleft.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_dummyprofile.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_dummyprofile.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_icons_transactions.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_icons_transactions.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_notes.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_notes.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_splashlogo.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_splashlogo.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_logo.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_logo.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_bankacc.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_bankacc.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_third.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_third.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_wages.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_wages.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_success.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_success.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_usercheck.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_usercheck.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_notification.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_notification.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_thirdsplash.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_thirdsplash.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_logout.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_logout.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_slider3.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_slider3.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_download.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_download.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_icons_more.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_icons_more.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_secondstep.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_secondstep.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_payroll.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_payroll.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-merged_res-38:/drawable-mdpi_components_assets_images_close.png.flat",
+        "source": "/Users/ripenapps/.gradle/daemon/8.6/com.hrms.app-main-40:/drawable-mdpi/components_assets_images_close.png"
+    }
+]
